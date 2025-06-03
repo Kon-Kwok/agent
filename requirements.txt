@@ -1,0 +1,9 @@
+pandas
+numpy
+serpapi
+langgraph
+yfinance
+openai
+python-dotenv
+google-generativeai
+matplotlib
